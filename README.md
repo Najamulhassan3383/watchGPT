@@ -57,9 +57,9 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Najamulhassan3383">
-        <img src="https://avatars.githubusercontent.com/u/77961701?v=4" width="100px" alt="Najamul Hassan" style="border-radius: 50%;" /><br />
-        <sub><b>Najamul Hassan</b></sub>
+      <a href="https://github.com/alirazahub">
+        <img src="https://avatars.githubusercontent.com/u/96135281?v=4" width="100px" alt="Ali Raza" style="border-radius: 50%;" /><br />
+        <sub><b>Ali Raza</b></sub>
       </a>
     </td>
     <td align="center">
